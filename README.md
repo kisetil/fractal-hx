@@ -7,18 +7,17 @@ Welcome to my Fractal visualization program! This software enables you to explor
 ![Screen](screen1.png)
 ![Screen](screen2.png)
 
-
-
 ## How to compile
 
-Clone the repository.
-
+Clone the repository:
+```sh
+https://github.com/kisetil/fractal-hx.git
+```
 Make sure you have installed the complex library from haxelib
 ```sh
 haxelib install complex
 ```
-
-then you can try to compile the program with
+Compile the program with
 ```sh
 openfl test html5   for the browser
 openfl test hl      for hashlink
@@ -29,4 +28,4 @@ and so on ...
 # To do
 - Maintain 1:1 aspect ratio.
 - Fix bugs...
-- 
+  
