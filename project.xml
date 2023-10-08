@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	
+	<meta title="Fractal" package="com.sample.fractal" version="1.0.0" company="Company Name" />
+	<app main="Main" path="Export" file="Fractal" />
+	
+	<source path="Source" />
+	
+	<haxelib name="openfl" />
+	<haxelib name="complex" />
+	
+	
+	<assets path="Assets" rename="assets" />
+	
+</project>
