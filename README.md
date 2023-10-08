@@ -4,6 +4,10 @@ Welcome to my Fractal visualization program! This software enables you to explor
 
 ## Screenshot
 
+![Screen](screen1.png)
+![Screen](screen2.png)
+
+
 
 ## How to compile
 
@@ -24,3 +28,5 @@ and so on ...
 
 # To do
 - Maintain 1:1 aspect ratio.
+- Fix bugs...
+- 
