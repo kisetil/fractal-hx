@@ -11,7 +11,7 @@ Welcome to Fractal visualization program! This software enables you to explore t
 
 Clone the repository:
 ```sh
-https://github.com/kisetil/fractal-hx.git
+git clone https://github.com/kisetil/fractal-hx.git
 ```
 Make sure you have installed the complex library from haxelib
 ```sh
